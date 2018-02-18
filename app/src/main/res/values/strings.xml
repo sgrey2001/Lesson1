@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson1</string>
+    <string-array name="two_string">
+        <item>BTN1</item>
+        <item>BTN2</item>
+    </string-array>
+</resources>
